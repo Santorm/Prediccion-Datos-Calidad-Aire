@@ -1,0 +1,997 @@
+/* 1 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef7e"),
+    "id_whcalidadaire" : NumberLong(1),
+    "fecha" : "01-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "10.00",
+    "NO (Âµg/mÂ³)_predicted" : 22.6702042740917,
+    "NO2 (µg/m³)" : "27.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 32.3101147573785,
+    "CO (mg/m³)" : "0.30",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "3",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef7f"),
+    "id_whcalidadaire" : NumberLong(2),
+    "fecha" : "01-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "15.00",
+    "NO (Âµg/mÂ³)_predicted" : 13.9156351257999,
+    "NO2 (µg/m³)" : "47.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 51.8726406860512,
+    "CO (mg/m³)" : "0.20",
+    "CO (mg/mÂ³)_predicted" : 0.332547669857626,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "3",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef80"),
+    "id_whcalidadaire" : NumberLong(3),
+    "fecha" : "01-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "43.00",
+    "NO (Âµg/mÂ³)_predicted" : 18.7233005228008,
+    "NO2 (µg/m³)" : "66.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 46.1552306950196,
+    "CO (mg/m³)" : "0.80",
+    "CO (mg/mÂ³)_predicted" : 0.497710788302311,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "3",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef81"),
+    "id_whcalidadaire" : NumberLong(4),
+    "fecha" : "01-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "4.00",
+    "NO (Âµg/mÂ³)_predicted" : 12.1702298403292,
+    "NO2 (µg/m³)" : "31.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 48.0515835276264,
+    "CO (mg/m³)" : "0.20",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "3",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef82"),
+    "id_whcalidadaire" : NumberLong(5),
+    "fecha" : "02-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "12.00",
+    "NO (Âµg/mÂ³)_predicted" : 12.0542898490163,
+    "NO2 (µg/m³)" : "39.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 50.360144888184,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "4",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef83"),
+    "id_whcalidadaire" : NumberLong(6),
+    "fecha" : "02-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "41.00",
+    "NO (Âµg/mÂ³)_predicted" : 13.7996951344871,
+    "NO2 (µg/m³)" : "68.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 54.1812020466089,
+    "CO (mg/m³)" : "0.70",
+    "CO (mg/mÂ³)_predicted" : 0.332547669857626,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "4",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef84"),
+    "id_whcalidadaire" : NumberLong(7),
+    "fecha" : "02-11-2016",
+    "SO2 (µg/m³)" : "3.00",
+    "NO (µg/m³)" : "42.00",
+    "NO (Âµg/mÂ³)_predicted" : 22.5542642827788,
+    "NO2 (µg/m³)" : "39.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 34.6186761179362,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "4",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef85"),
+    "id_whcalidadaire" : NumberLong(8),
+    "fecha" : "02-11-2016",
+    "SO2 (µg/m³)" : "3.00",
+    "NO (µg/m³)" : "52.00",
+    "NO (Âµg/mÂ³)_predicted" : 18.607360531488,
+    "NO2 (µg/m³)" : "69.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 48.4637920555772,
+    "CO (mg/m³)" : "0.90",
+    "CO (mg/mÂ³)_predicted" : 0.497710788302311,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "4",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef86"),
+    "id_whcalidadaire" : NumberLong(9),
+    "fecha" : "03-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "37.00",
+    "NO (Âµg/mÂ³)_predicted" : 13.7904534323206,
+    "NO2 (µg/m³)" : "68.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 54.1812020466089,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.332547669857626,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "5",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef87"),
+    "id_whcalidadaire" : NumberLong(10),
+    "fecha" : "03-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "34.00",
+    "NO (Âµg/mÂ³)_predicted" : 22.5450225806123,
+    "NO2 (µg/m³)" : "41.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 34.6186761179362,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "5",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef88"),
+    "id_whcalidadaire" : NumberLong(11),
+    "fecha" : "03-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "60.00",
+    "NO (Âµg/mÂ³)_predicted" : 18.5981188293215,
+    "NO2 (µg/m³)" : "79.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 48.4637920555772,
+    "CO (mg/m³)" : "1.00",
+    "CO (mg/mÂ³)_predicted" : 0.497710788302311,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "5",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef89"),
+    "id_whcalidadaire" : NumberLong(12),
+    "fecha" : "03-11-2016",
+    "SO2 (µg/m³)" : "3.00",
+    "NO (µg/m³)" : "21.00",
+    "NO (Âµg/mÂ³)_predicted" : 12.0450481468498,
+    "NO2 (µg/m³)" : "49.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 50.360144888184,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "5",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef8a"),
+    "id_whcalidadaire" : NumberLong(13),
+    "fecha" : "04-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "46.00",
+    "NO (Âµg/mÂ³)_predicted" : 13.7996951344871,
+    "NO2 (µg/m³)" : "67.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 54.1812020466089,
+    "CO (mg/m³)" : "0.60",
+    "CO (mg/mÂ³)_predicted" : 0.332257862602705,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "6",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef8b"),
+    "id_whcalidadaire" : NumberLong(14),
+    "fecha" : "04-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "56.00",
+    "NO (Âµg/mÂ³)_predicted" : 18.607360531488,
+    "NO2 (µg/m³)" : "72.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 48.4637920555772,
+    "CO (mg/m³)" : "0.80",
+    "CO (mg/mÂ³)_predicted" : 0.49742098104739,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "6",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef8c"),
+    "id_whcalidadaire" : NumberLong(15),
+    "fecha" : "04-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "24.00",
+    "NO (Âµg/mÂ³)_predicted" : 12.0542898490163,
+    "NO2 (µg/m³)" : "44.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 50.360144888184,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.372461008425033,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "6",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef8d"),
+    "id_whcalidadaire" : NumberLong(16),
+    "fecha" : "04-11-2016",
+    "SO2 (µg/m³)" : "4.00",
+    "NO (µg/m³)" : "17.00",
+    "NO (Âµg/mÂ³)_predicted" : 22.5542642827788,
+    "NO2 (µg/m³)" : "36.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 34.6186761179362,
+    "CO (mg/m³)" : "0.30",
+    "CO (mg/mÂ³)_predicted" : 0.372461008425033,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "6",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef8e"),
+    "id_whcalidadaire" : NumberLong(17),
+    "fecha" : "05-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "24.00",
+    "NO (Âµg/mÂ³)_predicted" : 16.022526987516,
+    "NO2 (µg/m³)" : "48.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 49.1779143890757,
+    "CO (mg/m³)" : "0.50",
+    "CO (mg/mÂ³)_predicted" : 0.406994514752093,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "7",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef8f"),
+    "id_whcalidadaire" : NumberLong(18),
+    "fecha" : "05-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "7.00",
+    "NO (Âµg/mÂ³)_predicted" : 11.214861590515,
+    "NO2 (µg/m³)" : "33.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 54.8953243801074,
+    "CO (mg/m³)" : "0.20",
+    "CO (mg/mÂ³)_predicted" : 0.241831396307409,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "7",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef90"),
+    "id_whcalidadaire" : NumberLong(19),
+    "fecha" : "05-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "3.00",
+    "NO (Âµg/mÂ³)_predicted" : 9.46945630504429,
+    "NO2 (µg/m³)" : "20.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 51.0742672216825,
+    "CO (mg/m³)" : "0.20",
+    "CO (mg/mÂ³)_predicted" : 0.282034542129737,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "7",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef91"),
+    "id_whcalidadaire" : NumberLong(20),
+    "fecha" : "05-11-2016",
+    "SO2 (µg/m³)" : "3.00",
+    "NO (µg/m³)" : "7.00",
+    "NO (Âµg/mÂ³)_predicted" : 19.9694307388068,
+    "NO2 (µg/m³)" : "27.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 35.3327984514347,
+    "CO (mg/m³)" : "0.20",
+    "CO (mg/mÂ³)_predicted" : 0.282034542129737,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "7",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef92"),
+    "id_whcalidadaire" : NumberLong(21),
+    "fecha" : "06-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "11.00",
+    "NO (Âµg/mÂ³)_predicted" : 12.5243672704057,
+    "NO2 (µg/m³)" : "34.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 48.979690177954,
+    "CO (mg/m³)" : "0.30",
+    "CO (mg/mÂ³)_predicted" : 0.476875846009485,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "1",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef93"),
+    "id_whcalidadaire" : NumberLong(22),
+    "fecha" : "06-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "3.00",
+    "NO (Âµg/mÂ³)_predicted" : 7.7167018734048,
+    "NO2 (µg/m³)" : "19.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 54.6971001689856,
+    "CO (mg/m³)" : "0.20",
+    "CO (mg/mÂ³)_predicted" : 0.3117127275648,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "1",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef94"),
+    "id_whcalidadaire" : NumberLong(23),
+    "fecha" : "06-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "2.00",
+    "NO (Âµg/mÂ³)_predicted" : 5.97129658793405,
+    "NO2 (µg/m³)" : "16.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 50.8760430105608,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.351915873387129,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "1",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef95"),
+    "id_whcalidadaire" : NumberLong(24),
+    "fecha" : "06-11-2016",
+    "SO2 (µg/m³)" : "4.00",
+    "NO (µg/m³)" : "4.00",
+    "NO (Âµg/mÂ³)_predicted" : 16.4712710216965,
+    "NO2 (µg/m³)" : "18.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 35.1345742403129,
+    "CO (mg/m³)" : "0.20",
+    "CO (mg/mÂ³)_predicted" : 0.351915873387129,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "1",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef96"),
+    "id_whcalidadaire" : NumberLong(25),
+    "fecha" : "07-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "32.00",
+    "NO (Âµg/mÂ³)_predicted" : 18.7302494835806,
+    "NO2 (µg/m³)" : "55.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 46.1133210398438,
+    "CO (mg/m³)" : "0.50",
+    "CO (mg/mÂ³)_predicted" : 0.49742098104739,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "2",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef97"),
+    "id_whcalidadaire" : NumberLong(26),
+    "fecha" : "07-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "6.00",
+    "NO (Âµg/mÂ³)_predicted" : 12.177178801109,
+    "NO2 (µg/m³)" : "27.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 48.0096738724507,
+    "CO (mg/m³)" : "0.50",
+    "CO (mg/mÂ³)_predicted" : 0.372461008425033,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "2",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef98"),
+    "id_whcalidadaire" : NumberLong(27),
+    "fecha" : "07-11-2016",
+    "SO2 (µg/m³)" : "4.00",
+    "NO (µg/m³)" : "12.00",
+    "NO (Âµg/mÂ³)_predicted" : 22.6771532348715,
+    "NO2 (µg/m³)" : "31.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 32.2682051022028,
+    "CO (mg/m³)" : "0.20",
+    "CO (mg/mÂ³)_predicted" : 0.372461008425033,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "2",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef99"),
+    "id_whcalidadaire" : NumberLong(28),
+    "fecha" : "07-11-2016",
+    "NO (µg/m³)" : "21.00",
+    "NO (Âµg/mÂ³)_predicted" : 13.9225840865797,
+    "NO2 (µg/m³)" : "43.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 51.8307310308755,
+    "CO (mg/m³)" : "0.50",
+    "CO (mg/mÂ³)_predicted" : 0.332257862602705,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "2",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef9a"),
+    "id_whcalidadaire" : NumberLong(29),
+    "fecha" : "08-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "22.00",
+    "NO (Âµg/mÂ³)_predicted" : 18.7233005228008,
+    "NO2 (µg/m³)" : "39.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 46.1552306950196,
+    "CO (mg/m³)" : "0.50",
+    "CO (mg/mÂ³)_predicted" : 0.497710788302311,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "3",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef9b"),
+    "id_whcalidadaire" : NumberLong(30),
+    "fecha" : "08-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "3.00",
+    "NO (Âµg/mÂ³)_predicted" : 12.1702298403292,
+    "NO2 (µg/m³)" : "15.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 48.0515835276264,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "3",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef9c"),
+    "id_whcalidadaire" : NumberLong(31),
+    "fecha" : "08-11-2016",
+    "SO2 (µg/m³)" : "7.00",
+    "NO (µg/m³)" : "32.00",
+    "NO (Âµg/mÂ³)_predicted" : 22.6702042740917,
+    "NO2 (µg/m³)" : "35.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 32.3101147573785,
+    "CO (mg/m³)" : "0.30",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "3",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef9d"),
+    "id_whcalidadaire" : NumberLong(32),
+    "fecha" : "08-11-2016",
+    "NO (µg/m³)" : "16.00",
+    "NO (Âµg/mÂ³)_predicted" : 13.9156351257999,
+    "NO2 (µg/m³)" : "33.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 51.8726406860512,
+    "CO (mg/m³)" : "0.30",
+    "CO (mg/mÂ³)_predicted" : 0.332547669857626,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "3",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef9e"),
+    "id_whcalidadaire" : NumberLong(33),
+    "fecha" : "09-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "23.00",
+    "NO (Âµg/mÂ³)_predicted" : 18.607360531488,
+    "NO2 (µg/m³)" : "36.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 48.4637920555772,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.497710788302311,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "4",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087ef9f"),
+    "id_whcalidadaire" : NumberLong(34),
+    "fecha" : "09-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "7.00",
+    "NO (Âµg/mÂ³)_predicted" : 13.7996951344871,
+    "NO2 (µg/m³)" : "29.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 54.1812020466089,
+    "CO (mg/m³)" : "0.20",
+    "CO (mg/mÂ³)_predicted" : 0.332547669857626,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "4",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efa0"),
+    "id_whcalidadaire" : NumberLong(35),
+    "fecha" : "09-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "3.00",
+    "NO (Âµg/mÂ³)_predicted" : 12.0542898490163,
+    "NO2 (µg/m³)" : "17.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 50.360144888184,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "4",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efa1"),
+    "id_whcalidadaire" : NumberLong(36),
+    "fecha" : "09-11-2016",
+    "SO2 (µg/m³)" : "3.00",
+    "NO (µg/m³)" : "27.00",
+    "NO (Âµg/mÂ³)_predicted" : 22.5542642827788,
+    "NO2 (µg/m³)" : "39.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 34.6186761179362,
+    "CO (mg/m³)" : "0.30",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "4",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efa2"),
+    "id_whcalidadaire" : NumberLong(37),
+    "fecha" : "10-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "14.00",
+    "NO (Âµg/mÂ³)_predicted" : 13.7904534323206,
+    "NO2 (µg/m³)" : "38.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 54.1812020466089,
+    "CO (mg/m³)" : "0.30",
+    "CO (mg/mÂ³)_predicted" : 0.332547669857626,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "5",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efa3"),
+    "id_whcalidadaire" : NumberLong(38),
+    "fecha" : "10-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "39.00",
+    "NO (Âµg/mÂ³)_predicted" : 18.5981188293215,
+    "NO2 (µg/m³)" : "47.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 48.4637920555772,
+    "CO (mg/m³)" : "0.50",
+    "CO (mg/mÂ³)_predicted" : 0.497710788302311,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "5",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efa4"),
+    "id_whcalidadaire" : NumberLong(39),
+    "fecha" : "10-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "6.00",
+    "NO (Âµg/mÂ³)_predicted" : 12.0450481468498,
+    "NO2 (µg/m³)" : "22.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 50.360144888184,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "5",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efa5"),
+    "id_whcalidadaire" : NumberLong(40),
+    "fecha" : "10-11-2016",
+    "SO2 (µg/m³)" : "6.00",
+    "NO (µg/m³)" : "49.00",
+    "NO (Âµg/mÂ³)_predicted" : 22.5450225806123,
+    "NO2 (µg/m³)" : "41.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 34.6186761179362,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.372750815679955,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "5",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efa6"),
+    "id_whcalidadaire" : NumberLong(41),
+    "fecha" : "11-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "23.00",
+    "NO (Âµg/mÂ³)_predicted" : 13.7996951344871,
+    "NO2 (µg/m³)" : "50.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 54.1812020466089,
+    "CO (mg/m³)" : "0.80",
+    "CO (mg/mÂ³)_predicted" : 0.332257862602705,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "6",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efa7"),
+    "id_whcalidadaire" : NumberLong(42),
+    "fecha" : "11-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "20.00",
+    "NO (Âµg/mÂ³)_predicted" : 12.0542898490163,
+    "NO2 (µg/m³)" : "32.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 50.360144888184,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.372461008425033,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "6",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efa8"),
+    "id_whcalidadaire" : NumberLong(43),
+    "fecha" : "11-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "36.00",
+    "NO (Âµg/mÂ³)_predicted" : 18.607360531488,
+    "NO2 (µg/m³)" : "49.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 48.4637920555772,
+    "CO (mg/m³)" : "0.60",
+    "CO (mg/mÂ³)_predicted" : 0.49742098104739,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "6",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efa9"),
+    "id_whcalidadaire" : NumberLong(44),
+    "fecha" : "11-11-2016",
+    "SO2 (µg/m³)" : "4.00",
+    "NO (µg/m³)" : "57.00",
+    "NO (Âµg/mÂ³)_predicted" : 22.5542642827788,
+    "NO2 (µg/m³)" : "39.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 34.6186761179362,
+    "CO (mg/m³)" : "0.50",
+    "CO (mg/mÂ³)_predicted" : 0.372461008425033,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "6",
+    "laborable" : "verdadero",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efaa"),
+    "id_whcalidadaire" : NumberLong(45),
+    "fecha" : "12-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "18.00",
+    "NO (Âµg/mÂ³)_predicted" : 11.214861590515,
+    "NO2 (µg/m³)" : "54.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 54.8953243801074,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.241831396307409,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "7",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efab"),
+    "id_whcalidadaire" : NumberLong(46),
+    "fecha" : "12-11-2016",
+    "SO2 (µg/m³)" : "1.00",
+    "NO (µg/m³)" : "36.00",
+    "NO (Âµg/mÂ³)_predicted" : 16.022526987516,
+    "NO2 (µg/m³)" : "59.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 49.1779143890757,
+    "CO (mg/m³)" : "0.50",
+    "CO (mg/mÂ³)_predicted" : 0.406994514752093,
+    "barrio" : "eixample",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "7",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efac"),
+    "id_whcalidadaire" : NumberLong(47),
+    "fecha" : "12-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "11.00",
+    "NO (Âµg/mÂ³)_predicted" : 9.46945630504429,
+    "NO2 (µg/m³)" : "38.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 51.0742672216825,
+    "CO (mg/m³)" : "0.20",
+    "CO (mg/mÂ³)_predicted" : 0.282034542129737,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "7",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efad"),
+    "id_whcalidadaire" : NumberLong(48),
+    "fecha" : "12-11-2016",
+    "SO2 (µg/m³)" : "5.00",
+    "NO (µg/m³)" : "28.00",
+    "NO (Âµg/mÂ³)_predicted" : 19.9694307388068,
+    "NO2 (µg/m³)" : "33.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 35.3327984514347,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.282034542129737,
+    "barrio" : "girona",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "7",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efae"),
+    "id_whcalidadaire" : NumberLong(49),
+    "fecha" : "13-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "12.00",
+    "NO (Âµg/mÂ³)_predicted" : 5.97129658793405,
+    "NO2 (µg/m³)" : "43.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 50.8760430105608,
+    "CO (mg/m³)" : "0.30",
+    "CO (mg/mÂ³)_predicted" : 0.351915873387129,
+    "barrio" : "palaureial",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "1",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5a202de1a0505f1d2087efaf"),
+    "id_whcalidadaire" : NumberLong(50),
+    "fecha" : "13-11-2016",
+    "SO2 (µg/m³)" : "2.00",
+    "NO (µg/m³)" : "21.00",
+    "NO (Âµg/mÂ³)_predicted" : 7.7167018734048,
+    "NO2 (µg/m³)" : "52.00",
+    "NO2 (Âµg/mÂ³)_predicted" : 54.6971001689856,
+    "CO (mg/m³)" : "0.40",
+    "CO (mg/mÂ³)_predicted" : 0.3117127275648,
+    "barrio" : "gracia",
+    "anyo" : "2016",
+    "mes" : "11",
+    "dia" : "1",
+    "laborable" : "falso",
+    "trimestre" : "4o Trimestre"
+}
